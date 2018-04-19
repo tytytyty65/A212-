@@ -14,6 +14,7 @@
 		5965694020663AC700777596 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5965693E20663AC700777596 /* LaunchScreen.storyboard */; };
 		5965694B20663AC700777596 /* A212____Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5965694A20663AC700777596 /* A212____Tests.swift */; };
 		5965695620663AC700777596 /* A212____UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5965695520663AC700777596 /* A212____UITests.swift */; };
+		596569662066437400777596 /* TrueLoveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596569652066437400777596 /* TrueLoveViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5965695120663AC700777596 /* A212擇偶作業UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "A212擇偶作業UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5965695520663AC700777596 /* A212____UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A212____UITests.swift"; sourceTree = "<group>"; };
 		5965695720663AC700777596 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		596569652066437400777596 /* TrueLoveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrueLoveViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		5965692920663AC700777596 = {
 			isa = PBXGroup;
 			children = (
+				596569652066437400777596 /* TrueLoveViewController.swift */,
 				5965693420663AC700777596 /* A212擇偶作業 */,
 				5965694920663AC700777596 /* A212擇偶作業Tests */,
 				5965695420663AC700777596 /* A212擇偶作業UITests */,
@@ -261,6 +264,7 @@
 			files = (
 				5965693820663AC700777596 /* ViewController.swift in Sources */,
 				5965693620663AC700777596 /* AppDelegate.swift in Sources */,
+				596569662066437400777596 /* TrueLoveViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
